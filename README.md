@@ -39,10 +39,10 @@ As I look to the future, I am eager to bring my expertise to any position, where
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/earner/earned/badge/73b8f591-8155-4892-aa92-5654bafa2950/"><img src="https://img.shields.io/badge/-Pentest%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/earner/earned/badge/177fe1ce-ef4a-4ad0-baaf-5660f16b291f/"><img src="https://img.shields.io/badge/-CYSA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/earner/earned/badge/d422e0a7-8da4-4da6-9f8d-785c3fb53ae3/"><img src="https://img.shields.io/badge/-Linux%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/earner/earned/badge/d422e0a7-8da4-4da6-9f8d-785c3fb53ae3/"><img src="https://img.shields.io/badge/-Project%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/73b8f591-8155-4892-aa92-5654bafa2950/public_url"><img src="https://img.shields.io/badge/-Pentest%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/177fe1ce-ef4a-4ad0-baaf-5660f16b291f/public_url"><img src="https://img.shields.io/badge/-CYSA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/d422e0a7-8da4-4da6-9f8d-785c3fb53ae3/public_url"><img src="https://img.shields.io/badge/-Linux%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/58b7fdc1-f0ad-482e-ab4b-8e2494ed081e/public_url"><img src="https://img.shields.io/badge/-Project%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 </div>
 
 ## Projects
